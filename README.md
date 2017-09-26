@@ -1,10 +1,14 @@
 # MVC: A Dataset for View-Invariant Clothing Retrieval and Attribute Prediction
 by Kuan-Hsien Liu, Ting-Yen Chen, and Chu-Song Chen
 
-## Citation (ICMR 2016)
+## Citation
 if you use this dataset, please cite:
 	
-	Kuan-Hsien Liu, Ting-Yen Chen, and Chu-Song Chen, "MVC: A Dataset for View-Invariant Clothing Retrieval and Attribute Prediction," ACM International Conference on Multimedia Retrieval, ICMR 2016, June 2016.　[paper](http://www.iis.sinica.edu.tw/papers/song/19692-F.pdf).
+	Kuan-Hsien Liu, Ting-Yen Chen, and Chu-Song Chen, 
+	"MVC: A Dataset for View-Invariant Clothing Retrieval and Attribute Prediction," 
+	ACM International Conference on Multimedia Retrieval, ICMR 2016, June 2016.　
+	
+[paper](http://www.iis.sinica.edu.tw/papers/song/19692-F.pdf).
 
 ## Introduction
 We collect the MVC dataset by crawling images from several online shopping websites, such as Amazon.com, Zappos.com or Shopbop.com.   The challenge in constructing the dataset is to gather complete four different views (front, back, left, and right views) for each clothing item, as there may be only two or three views available for some clothes.
