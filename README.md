@@ -14,4 +14,4 @@ Here, we only provide 161,260 annotated images (1920 x 2240 resolutions) with 26
   * [json files](https://drive.google.com/open?id=0B0oMjGuurWR4ZVZ1X19veUkxeU0) for image_links, attribute_labels, mvc_info.
 
 ## Contact
-Please feel free to contact Kuan-Hsien Liu (khliu1212@gmail.com), Ting-Yen Chen (timh20022002@iis.sinica.edu.tw), or Chu-Song Chen (song@iis.sinica.edu.tw) if you had any questions.
+Please feel free to contact Kuan-Hsien Liu (khliu1212@gmail.com), Ting-Yen Chen (timh20022002@gmail.com), or Chu-Song Chen (song@iis.sinica.edu.tw) if you had any questions.
