@@ -1,6 +1,8 @@
 # MVC: A Dataset for View-Invariant Clothing Retrieval and Attribute Prediction
 by Kuan-Hsien Liu, Ting-Yen Chen, and Chu-Song Chen
 
+![clothing](https://github.com/MVC-Datasets/MVC/blob/gh-pages/MultiviewClothingImage.jpg?raw=true)
+
 ## Citation
 if you use this dataset, please cite:
 	
